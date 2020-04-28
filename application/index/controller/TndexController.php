@@ -19,6 +19,7 @@ class IndexController extends Controller
         if ($this->isLogin()) {
             $is_login      = 1;
             $is_login_text = '11111111111';
+            $is_login_tex1t = '1111111112321312312312312311';
         }
 
         $this->assign([

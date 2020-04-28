@@ -18,7 +18,7 @@ class IndexController extends Controller
         $is_login_text = '未登录';
         if ($this->isLogin()) {
             $is_login      = 1;
-            $is_login_text = '11111111111';
+            $is_login_text = '11111111112321312312311';
         }
 
         $this->assign([
